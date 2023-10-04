@@ -1,0 +1,19 @@
+<Doctype html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <meta name="description" content="descrição legal da minha página">
+    <meta name="author" content="Jéssika Antunes">
+    <meta name="keywords" content="html, css, javascript">
+</head>
+
+<body>
+    <h1>Título</h1>
+
+    <p>parágrafo</p>
+
+</body>
+
+</html>
